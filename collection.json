@@ -1,0 +1,110 @@
+[
+  {
+    "backgroundImageURL" : "https:\/\/raw.githubusercontent.com\/Jeor\/fusionanimated\/refs\/heads\/main\/netflix-landscape.png",
+    "dataSource" : {
+      "kind" : "traktList",
+      "payload" : {
+        "listName" : "Netflix-Top10-Movies",
+        "listSlug" : "netflix-top10-movies",
+        "traktId" : 27683771,
+        "username" : "karhu69"
+      }
+    },
+    "dataSources" : [
+      {
+        "kind" : "traktList",
+        "payload" : {
+          "listName" : "Netflix-Top10-Movies",
+          "listSlug" : "netflix-top10-movies",
+          "traktId" : 27683771,
+          "username" : "karhu69"
+        }
+      }
+    ],
+    "hideTitle" : false,
+    "id" : "E6AAB269-4C15-451A-AD26-E1E412A0D4CE",
+    "layout" : "Wide",
+    "name" : "Netflix"
+  },
+  {
+    "backgroundImageURL" : "https:\/\/raw.githubusercontent.com\/Jeor\/fusionanimated\/refs\/heads\/main\/apple-tv-landscape.png",
+    "dataSource" : {
+      "kind" : "traktList",
+      "payload" : {
+        "listName" : "Apple TV+",
+        "listSlug" : "apple-tv",
+        "traktId" : 10207595,
+        "username" : "istoit"
+      }
+    },
+    "dataSources" : [
+      {
+        "kind" : "traktList",
+        "payload" : {
+          "listName" : "Apple TV+",
+          "listSlug" : "apple-tv",
+          "traktId" : 10207595,
+          "username" : "istoit"
+        }
+      }
+    ],
+    "hideTitle" : false,
+    "id" : "D1B37351-BCA9-411D-8B88-B0A501D31A32",
+    "layout" : "Wide",
+    "name" : "Appletv"
+  },
+  {
+    "backgroundImageURL" : "https:\/\/raw.githubusercontent.com\/Jeor\/fusionanimated\/refs\/heads\/main\/disney-landscape.png",
+    "dataSource" : {
+      "kind" : "traktList",
+      "payload" : {
+        "listName" : "Disney_Films",
+        "listSlug" : "disney_films",
+        "traktId" : 22888726,
+        "username" : "sargeusmc"
+      }
+    },
+    "dataSources" : [
+      {
+        "kind" : "traktList",
+        "payload" : {
+          "listName" : "Disney_Films",
+          "listSlug" : "disney_films",
+          "traktId" : 22888726,
+          "username" : "sargeusmc"
+        }
+      }
+    ],
+    "hideTitle" : false,
+    "id" : "CD21F39A-DDDD-4E07-855E-E654B748E8F0",
+    "layout" : "Wide",
+    "name" : "Disney"
+  },
+  {
+    "backgroundImageURL" : "https:\/\/raw.githubusercontent.com\/Jeor\/fusionanimated\/refs\/heads\/main\/dreamworks-landscape.png",
+    "dataSource" : {
+      "kind" : "traktList",
+      "payload" : {
+        "listName" : "Dreamworks Feature Films",
+        "listSlug" : "dreamworks-feature-films",
+        "traktId" : 801242,
+        "username" : "Draackje"
+      }
+    },
+    "dataSources" : [
+      {
+        "kind" : "traktList",
+        "payload" : {
+          "listName" : "Dreamworks Feature Films",
+          "listSlug" : "dreamworks-feature-films",
+          "traktId" : 801242,
+          "username" : "Draackje"
+        }
+      }
+    ],
+    "hideTitle" : false,
+    "id" : "B83E65C6-8A7A-4EED-AD2E-FEDEE23520FA",
+    "layout" : "Wide",
+    "name" : "DreamWorks"
+  }
+]
