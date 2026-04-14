@@ -1,0 +1,22 @@
+[
+    {
+      "title": "Appletv",
+      "videoURL": "https://github.com/Jeor/fusionanimated/raw/refs/heads/main/Jeor.mp4",
+      "logoURL":  "https://raw.githubusercontent.com/Jeor/fusionanimated/refs/heads/main/apple-tv-landscape.png"
+    },
+    {
+      "title": "Netflix",
+      "videoURL": "https://github.com/Jeor/fusionanimated/raw/4da368049920f301bf4cfd1fa55365c3fea392b9/netflix.mp4",
+      "logoURL":  "https://raw.githubusercontent.com/Jeor/fusionanimated/refs/heads/main/netflix-landscape.png"
+    },
+    {
+      "title": "Dreamworks",
+      "videoURL": "https://github.com/Jeor/fusionanimated/raw/refs/heads/main/Dreamworks.mp4",
+      "logoURL":  "https://raw.githubusercontent.com/Jeor/fusionanimated/refs/heads/main/dreamworks-landscape.png"
+    },
+    {
+      "title": "Disney",
+      "videoURL": "https://github.com/Jeor/fusionanimated/raw/refs/heads/main/Disney.mp4",
+      "logoURL":  "https://raw.githubusercontent.com/Jeor/fusionanimated/refs/heads/main/disney-landscape.png"
+    }
+]
